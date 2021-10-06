@@ -1,0 +1,1 @@
+https://www.wahyunanangwidodo.com/2020/07/membuat-autentikasi-jwt-json-web-token-di-laravel.html
